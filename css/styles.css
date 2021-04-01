@@ -229,7 +229,7 @@ img{
 
 @media (max-width: 768px) {
   .home-image {
-    position: fixed;
+    position: absolute;
         width: 205px;
         margin-top: 19em;
         margin-left: 3em;
