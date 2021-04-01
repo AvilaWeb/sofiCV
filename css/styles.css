@@ -231,7 +231,7 @@ img{
   .home-image {
     position: absolute;
         width: 205px;
-        margin-top: 19em;
+        margin-top: 23em;
         margin-left: 3em;
 
   }
@@ -358,7 +358,7 @@ img{
 
 @media (max-width: 768px) {
   .mailto {
-    padding-left: 27%;
+    padding-left: 30%;
   }
 }
 
